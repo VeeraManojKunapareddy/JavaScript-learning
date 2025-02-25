@@ -27,7 +27,7 @@ If you’re interested in contributing to this repository! Whether you want to f
 ---
 
 ### **Step 1: Fork the Repository**
-1. Go to the [repository page](https://github.com/your-username/javascript-learning).
+1. Go to the [repository page](https://github.com/VeeraManojKunapareddy/javascript-learning).
 2. Click the **Fork** button in the top-right corner.
 3. This will create a copy of the repository under your GitHub account.
 
