@@ -1,7 +1,6 @@
 # JavaScript-learning
 
-Welcome to my **JavaScript Learning Repository**! This is where I document my journey of learning JavaScript. I’ve included notes, examples, and explanations of key concepts like Execution Context, Hoisting, and Scope Chain.
-
+Welcome to my **JavaScript Learning Repository**! This repository is a collection of notes, examples, and explanations of key JavaScript concepts.
 Feel free to explore, learn, and contribute!
 
 ---
@@ -11,6 +10,22 @@ This repository contains:
 - **Notes**: Simple explanations of JavaScript concepts.
 - **Code Examples**: Practical examples to help you understand the concepts.
 - **Organized Folders**: Easy-to-navigate structure.
+
+The goal is to create a comprehensive resource for myself and others who are learning JavaScript.
+
+---
+
+## **Topics Covered**
+Here are the key topics covered in this repository:
+1. **Execution Context**
+2. **Hoisting**
+3. **Scope Chain & Lexical Environment**
+4. **Temporal Dead Zone (TDZ)**
+5. **Block Scope and Shadowing**
+6. **Closures and Garbage Collection**
+7. **Functions**
+8. **Callback Functions**
+9. **Event Listeners**
 
 ---
 
