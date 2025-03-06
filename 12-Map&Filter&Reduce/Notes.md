@@ -12,6 +12,7 @@ The `map` method creates a new array by applying a function to each element of t
 const newArray = array.map(function (element, index, array) {
   return transformedElement;
 });
+```
 
 ---
 
