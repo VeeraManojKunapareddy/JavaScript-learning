@@ -26,6 +26,13 @@ Here are the key topics covered in this repository:
 7. **Functions**
 8. **Callback Functions**
 9. **Event Listeners**
+10. **AsynchronousJs&EventLoop**
+11. **HigherOrderfunctions&FunctionalProgmming**
+12. **Map&Filter&Reduce**
+13. **Promises**
+14. **CreatingPromises&ErrorHandling**
+15. **Async&Await**
+16. **PromisesAPIs**
 
 ---
 
